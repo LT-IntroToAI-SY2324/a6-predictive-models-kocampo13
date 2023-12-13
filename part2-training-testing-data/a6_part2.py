@@ -35,6 +35,7 @@ r_squared = model.score(xtrain, ytrain)
 # Print out the linear equation and r squared value:
 print("Model's Linear Equation: y=",coef, "x+", intercept)
 print("R Squared value:", r_squared)
+print(f"Prediction when x is {x_predict}: {prediction}")
 
 '''
 **********TEST THE MODEL**********
