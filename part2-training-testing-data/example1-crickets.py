@@ -16,6 +16,11 @@ y = data["Temp"].values
 # separates the data into training and testing sets
 xtrain, xtest, ytrain, ytest = train_test_split(x, y, test_size = .2)
 
+print("xtrain (xtrain)")
+print(f"xtest (xtest)")
+print(f"ytrain (ytrain)")
+print(f"ytest (ytest)")
+
 # reshape the xtrain data into a 2D array
 xtrain = xtrain.reshape(-1, 1)
 

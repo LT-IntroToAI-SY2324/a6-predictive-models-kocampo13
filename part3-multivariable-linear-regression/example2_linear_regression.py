@@ -14,12 +14,11 @@ x = data[["Adult Population", "Annual Precipitation", "Winter Severity"]].values
 print(x)
 y = data["Fawn"].values
 
-
 # separates the data into training and testing sets
 xtrain, xtest, ytrain, ytest = train_test_split(x, y, test_size = .2)
 
-# # reshape the xtrain data into a 2D array
-# xtrain = xtrain.reshape(-1, 1)
+# reshape the xtrain data into a 2D array
+xtrain = xtrain.reshape(-1, 1)
 
 # create the linear regression model using the training data
 model = LinearRegression().fit(xtrain, ytrain)
