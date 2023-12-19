@@ -15,3 +15,4 @@ Throughout this module, you have learned how to program both supervised and unsu
 - A summary of the accuracy of your model
 - Real world implications
 
+Group: Cat M., Kelly O.
