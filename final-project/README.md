@@ -1,5 +1,7 @@
 # Project - Create your own predictive model
 
+Group: Cat M., Kelly O.
+
 Predictive models are used across industries to analyze and make predictions about data. From sports to beauty products to app usage, predictive models provide individuals and businesses with data to make informed decisions.
 
 Throughout this module, you have learned how to program both supervised and unsupervised learning models. In this final project, you will create your own! Throughout this project, you will work through activities to complete the following steps:
@@ -15,4 +17,11 @@ Throughout this module, you have learned how to program both supervised and unsu
 - A summary of the accuracy of your model
 - Real world implications
 
-Group: Cat M., Kelly O.
+
+
+1. The dataset we chose to use was the ablone dataset from the https:/archive.ics.uci.edu/ website.
+
+2. We are using the unsupervised learning algorithm and there was not much of a linear correlation between the variables given. We were looking for a label/category but we did not know which labels we needed. Since we did not know whichlabels to use, unsupervised learning was the best fit of algorithm to use. 
+
+4. 
+
