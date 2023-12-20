@@ -1,4 +1,5 @@
-# Cat M., Kelly O.
+# Project - Create your own predictive model
+# Cat Markowska and Kelly Ocampo, P.3
 
 from ucimlrepo import fetch_ucirepo 
 import matplotlib.pyplot as plt
